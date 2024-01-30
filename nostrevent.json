@@ -1,0 +1,34 @@
+{
+    "content": "",
+    "created_at": 1702506180,
+    "kind": 30009,
+    "pubkey": "21b419102da8fc0ba90484aec934bf55b7abcf75eedb39124e8d75e491f41a5e",
+    "tags": [
+      [
+        "d",
+        "Corny-Chat-In-The-Room-Where-It-Happened"
+      ],
+      [
+        "name",
+        "In The Room Where It Happened"
+      ],
+      [
+        "alt",
+        "Badge: Corny Chat In the Room Where it Happened"
+      ],
+      [
+        "description",
+        "You were in the room where it happened, taking part in discussions of a domain name for a new instance of Nostr Live Audio Spaces. From tell me things, to a hullabaloo, we all got an earful. Vic, Noshole, Puzzles, Kajoozie, Sai, New1, B, Companion"
+      ],
+      [
+        "image",
+        "https://i.nostr.build/zBa4.png",
+        "500x500"
+      ],
+      [
+        "nonce",
+        "200000000000",
+        "42"
+      ]
+    ]
+}
